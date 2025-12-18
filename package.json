@@ -1,0 +1,8 @@
+{
+  "homepage": "https://Lezka212.github.io/tg-mini-app",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "npm run build && gh-pages -d dist"
+  }
+}
